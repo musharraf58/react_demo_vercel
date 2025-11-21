@@ -5,7 +5,7 @@ function Welcome(props) {
 function App() {
   return (
     <div>
-      <h1>Engineering College React Demo</h1>
+      <h1>This proves CI/CD works</h1>
       <Welcome name="Aida" />
       <Welcome name="Said" />
       <Welcome name="Dastan" />
